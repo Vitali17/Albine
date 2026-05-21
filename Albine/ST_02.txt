@@ -1,0 +1,39 @@
+
+Raport Stup
+Perioada Analiza
+2026-05-19_00:00 --> 2026-05-19_23:00
+
+Temperatura:
+Minim: 32.70
+Maxim: 37.30
+Diferenta: 4.60
+Analiza: Variatii moderate de temperatura.
+
+Umiditatea:
+Minim: 52.10
+Maxim: 58.70
+Diferenta: 6.60
+Analiza: Umiditate normala.
+
+CO2:
+Minim: 430.40
+Maxim: 1780.90
+Diferenta: 1350.50
+Analiza: Ventilatie slaba.
+
+Zgomot:
+Minim: 13.00
+Maxim: 25.00
+Diferenta: 12.00
+Analiza: Activitate crescuta.
+
+Presiune:
+Minim: 1012.60
+Maxim: 1014.30
+Diferenta: 1.70
+Analiza: Presiune stabila.
+
+========================
+CONCLUZIE FINALA STUP
+========================
+Calificativ: ACCEPTABIL
